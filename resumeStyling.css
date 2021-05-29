@@ -510,5 +510,8 @@ button:focus {
     #my-name{
         margin-top : -5vh;
     }
+    #body-header{
+        height: 45vh;
+    }
 
 }
