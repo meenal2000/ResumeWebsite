@@ -491,7 +491,7 @@ button:focus {
     font-size:30px;
 }
 
-@media screen and (max-width : 200px){
+@media screen and (max-width : 100px){
     .timeline-divider{
         left : 5%;
     }
@@ -508,10 +508,10 @@ button:focus {
         font-size:15px;
     }
     #my-name{
-        margin-top : 2vh;
+        margin-top : 20% ;
     }
     #body-header{
-        height: 30vh; 
+        height: 50%; 
     }
 
 }
