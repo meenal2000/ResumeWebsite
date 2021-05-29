@@ -491,7 +491,7 @@ button:focus {
     font-size:30px;
 }
 
-@media screen and (max-width : 250px){
+@media screen and (max-width : 200px){
     .timeline-divider{
         left : 5%;
     }
